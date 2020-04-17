@@ -1,0 +1,17 @@
+{
+  "name": "Bin2Dec",
+  "displayName": "Bin2Dec",
+  "expo": {
+    "name": "Bin2Dec",
+    "slug": "Bin2Dec",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
